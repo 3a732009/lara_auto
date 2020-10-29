@@ -1,0 +1,16 @@
+{
+    "name": "user/lara_auto",
+    "authors": [
+        {
+            "name": "chang ting yu",
+            "email": "s3a732009@student.ncut.edu.tw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+
+}
